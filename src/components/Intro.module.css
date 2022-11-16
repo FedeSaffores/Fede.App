@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://www.elcarrocolombiano.com/wp-content/uploads/2020/03/20200329-TOP-5-LOS-CARROS-MAS-REPRESENTATIVOS-DE-LA-HISTORIA-02.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.icon{
+    width: 300px;
+    display: block;
+    margin-top:180px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: none !important;
+}
+
+.remove-bg{
+    filter:brightness(1.1);
+    mix-blend-mode: multiply;
+}
